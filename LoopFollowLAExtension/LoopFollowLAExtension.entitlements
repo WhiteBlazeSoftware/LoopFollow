@@ -1,0 +1,6 @@
+<key>application-identifier</key>
+<string>team.identifier.LoopFollowLAExtension</string>
+<key>com.apple.security.application-groups</key>
+<array>
+	<string>group.com.example.LoopFollowLA</string>
+</array>
